@@ -1,3 +1,3 @@
 # Containerize A React Application
 
-Setting up Jenkins to clone from repo
+Jenkins schedule job to clone from repo
